@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="concepts/language-features/Demo01_Delegates/Demo01_Delegates.csproj" />
+  <Project Path="concepts/language-features/Demo02_Event/Demo02_Event.csproj" Id="43e6fa0f-bdeb-444d-a972-37c8427a74a2" />
 </Solution>
